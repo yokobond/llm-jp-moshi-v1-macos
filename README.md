@@ -1,4 +1,4 @@
-# moshi-ja
+# LLM-jp-Moshi-v1 Launcher for macOS Apple Silicon
 
 [LLM-jp-Moshi-v1](https://huggingface.co/llm-jp/llm-jp-moshi-v1)（国立情報学研究所が公開した世界初の商用利用可能な日本語全二重音声対話モデル）を、macOS Apple Silicon 上で動かすためのランチャーです。
 
