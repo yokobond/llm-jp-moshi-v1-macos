@@ -1,0 +1,12 @@
+[project]
+name = "moshi-ja"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "moshi>=0.2.13",
+    "moshi-mlx>=0.3.0",
+    "sentencepiece>=0.2.0",
+    "sphn>=0.2.1",
+]
